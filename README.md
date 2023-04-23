@@ -1,3 +1,5 @@
-# mairala
+# Mairala
 
-### mairala - responsive design from scratch
+## See the website online
+
+### https://jorneycr.github.io/latamcode-test/
